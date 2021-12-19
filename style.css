@@ -1,12 +1,12 @@
 html,body {
     height: 100%;
-    background-color: #838383;
+    background-color: white;
 }
 
 #container{
     width: 100%;
     height: 70%;
-    background-color: #ffe2e2;
+    background-color: white;
     display: flex;
     margin: 0 auto;
 }
